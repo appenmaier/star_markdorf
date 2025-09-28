@@ -76,7 +76,7 @@
 - IT (Hardware, Software): Ramo Doering (ramo.doering@sap.com)
 - IT (Besprechungsräume): Andreas Scherer (a.scherer@sap.com)
 - Hausmeister: Thomas Hoess (thomas.hoess@sap.com)
-- Standortleitung: Sebastian Griessmeyer (sebastian.griessmeyer@sap.com) und Andreas Giessmann (andrea.giessmann@sap.com)
+- Standortleitung: Sebastian Griessmeyer (sebastian.griessmeyer@sap.com) und Andrea Giessmann (andrea.giessmann@sap.com)
 
 ## Ansprechpartner STAR Germany
 
