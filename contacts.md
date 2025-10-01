@@ -17,7 +17,7 @@
 | Sustainability: PC 3             | Ingo Sigmund        | 11                 | Johannes Wiest (WI 2014), Helen Müller (WI 2017)     |
 | Sustainability: PC 6             | Andrea Giessmann    | 9                  |                                                      |
 | Sustainability: EHS 3            | Julia Riegger       | 14                 | Patrik Balazs (WI 2019)                              |
-| Sustainability: SID              | Andre Maucher       | 6                  |                                                      |
+| Sustainability: SID              | Andre Maucher       | 6                  | Jonas Zagst (INF 2022)                               |
 | Sustainability: RDP              | Christoph Huber     | 13                 | Lea Buchhold (WI 2018), Tim Sauter (WI 2021)         |
 | ERP Private: Asset & Service 3   | Thomas Veith        | 11                 |                                                      |
 | ERP Public: Project Services 2   | Jens Schyma         | 12                 | Lukas Fink (WI 2018), Robin Herder (WI 2018)         |
