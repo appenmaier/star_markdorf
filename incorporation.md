@@ -7,7 +7,7 @@
 - Unternehmerisches Verhalten: Regeln und Pflichten einhalten
 
 ## Übernahmeempfehlung
-Bitte schaut, dass Ihr bis zum 30. Januar alle relevanten Informationen (Noten, Tätigkeiten, Praxisphasen) soweit möglich im [Talent Compass](https://sapit-hr-prod.launchpad.cfapps.eu10.hana.ondemand.com/site/VT#Shell-home) eingetragen habt, da ich bis zum 31. Januar die 
+Bitte schaut, dass Ihr bis zum 30. Januar alle relevanten Informationen (Noten, Tätigkeiten, Praxisphasen) soweit möglich im [Talent Compass](https://sapit-home-prod-004.launchpad.cfapps.eu10.hana.ondemand.com/site?sap-ushell-config=lean#vtstardashboard-Display?mobilestart.tile.hidden=true&sap-ui-app-id-hint=c5dc3747-54a7-4af7-9207-5b49f7b21a5e) eingetragen habt, da ich bis zum 31. Januar die 
 Übernahmeempfehlungen im Talent Compass pflegen muss:
 - Wer in allen 4 Elementen die Anforderungen erfüllt hat, bekommt eine _uneingeschränkte Übernahmeempfehlung_
 - Wer in einem der ersten 3 Elemente die Anforderungen nicht erfüllt hat, bekommt eine _eingeschränkte Übernahmeempfehlung_
