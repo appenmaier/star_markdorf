@@ -7,7 +7,7 @@
 
 ## Praxisphase
 - Praxisphasen-Abschlussgespräch mit dem Dezi organisieren (Ende der Praxisphase, 1/2 Stunde)
-- Ein Formular für zusätzliche Beurteiler anlegen (_SAP One - Explore - Success Map - Formulare - Neues Formular erstellen_), den Dezi als Beurteiler hinzufügen, das Ziel Leistung in den Praxisphasen als zu bewertendes Ziel auswählen und das Dokument an den Dezi weiterleiten
+- Ein Formular für zusätzliches Feedack (Additional Feedback) anlegen (_SAP One - Explore - Success Map - Forms - Create Form_), den Dezi als Beurteiler hinzufügen, das Ziel _Leistung in den Praxisphasen_ als zu bewertendes Ziel auswählen und das Dokument an den Dezi weiterleiten
 
 ## Sonstiges
 - Softwarelizenzen, die nicht mehr benötigt werden, [zurückgeben](https://sapit-home-prod-004.launchpad.cfapps.eu10.hana.ondemand.com/site?sap-ushell-config=lean#mysoftware-Display?sap-ui-app-id-hint=fe5ca0d0-9694-4ad9-89bb-97471eaa03d7)
