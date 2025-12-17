@@ -2,7 +2,6 @@
 
 ## Talent Compass und Success Map
 - [Talent Compass](https://sapit-hr-prod-bear.launchpad.cfapps.eu10.hana.ondemand.com/site/VT#Shell-home) aktualisieren (Praxisphasen, Noten, Tätigkeiten etc.)
-- Ergebnis der Praxisphase im Talent Compass festlegen (Funktion _Set Outcome_)
 - Posteingang Success Map prüfen (_SAP One - Explore - Plattforms - Success Map - Formulare - Posteingang_)
 
 ## Praxisphase
