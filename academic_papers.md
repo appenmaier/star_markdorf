@@ -119,9 +119,6 @@ Wenn sich der Kurzverweis auf einen kompletten Abschnitt beziehen soll, kann die
   - _Laut Maier ist der Himmel blau. Des weiteren führt Maier aus, dass das Meer ebenfalls blau ist (vgl. Maier, 2024, S. 20ff)._
   - _Laut Maier (2024) ist der Himmel blau. Des weiteren führt Maier aus, dass das Meer ebenfalls blau ist (vgl. S. 20ff)._
 
-Eine weitere Möglichkeit stellt die Verwendung der Abkürzung _ebd._ dar: _Der Himmel ist blau (vgl. Maier, 2024, S. 20). Das Meer ist ebenfalls blau (ebd. S. 21)_.
-Zudem ist laut Paul Kirchberg auch folgende Variante möglich (Belege dafür gibt es aber keine): _Der Himmel ist blau. Das Meer ist ebenfalls blau. (vgl. Maier, 2024, S. 20ff)_
-
 ## Einleitungstexte
 
 Kapitel und Unterkapitel können durch kurze Texte (1/4 – 1/2 Seite) eingeleitet werden. Durch Einleitungstexte erspart man sich in der Regel generische Unterkapitel wie _Begriffsdefinition_ etc.
@@ -139,20 +136,37 @@ _Hinweise_
   - Design Research
   - CRISP-DM
 - Erhebungsmethoden
-  - Experteninterviews
+  - Experteninterviews/Fragebogen
+  - Experiment
   - Artefaktbasierte Analyse
-  - Literaturanalyse
+  - Literaturanalyse (Qualitative Inhaltsanalyse nach Mayring)
 - Untersuchungsmethoden
   - Fit-Gap-Analyse
   - Nutzwertanalyse
   - SWOT-Analyse
+  - PESTEL
+  - 5-Kräfte-Modell
 - Methoden zur Evaluierung
   - Prototyping
   - Umfragen
   - Anforderungsmapping
 - Sonstige Methoden
   - Konzeption
+  - agile Methoden, V-Modell
   - Geschäftsprozessmodellierung
+- Prozesse
+  - Prozessmodellierung (BPMN, eEPK, UML, ARIS)
+  - Business Process Reengineering (BPR)
+  - Prozesskennzahlen (Analyse)
+  - Referenzmodellierung
+ - Anforderungsdokumentation
+   - SOPHIST-Satzschablone (System-Fokus)
+   - User Stories (User-Fokus)
+   - Kano (Priorisierung)
+   - Snowcard
+
+<img width="1563" height="890" alt="image" src="https://github.com/user-attachments/assets/dfcdc685-b3f5-44a1-8b39-04a6a620055a" />
+<img width="1268" height="630" alt="image" src="https://github.com/user-attachments/assets/c96a39f0-9ee1-4352-a9fa-640708fb3c41" />
 
 ## Sonstige Hinweise
 
