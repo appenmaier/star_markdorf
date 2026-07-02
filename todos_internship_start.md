@@ -11,7 +11,7 @@
 -	Weiterbildungsmaßnahmen planen
 
 **Hinweise zu Schulungen**
-- Auf dem [STAR Germany Sharepoint](https://sap.sharepoint.com/:u:/r/teams/VocationalTrainingGermany/SitePages/Wahl-Curriculum.aspx?csf=1&web=1&e=2ChpTH)) findet Ihr generelle Informationen zum Thema Weiterbildung
+- Auf dem [STAR Germany Sharepoint](https://sap.sharepoint.com/:u:/r/teams/VocationalTrainingGermany/SitePages/Wahl-Curriculum.aspx?csf=1&web=1&e=2ChpTH) findet Ihr generelle Informationen zum Thema Weiterbildung
 - In [dieser PDF](https://github.com/user-attachments/files/29583986/AI.Upskilling.pdf) findet Ihr eine Anleitung zur zielgerichteten Weiterbildung in Richtung KI mit Hilfe des [Learning Navigators](https://sap.sharepoint.com/sites/127017)
 - Die [Learning Analytics Bridge](https://sapit-hr-prod-bear-hrit-learning-lab-lab.cfapps.eu10-004.hana.ondemand.com/labui/index.html#) zeigt Euch an, wie viele Stunden und Trainings ihr dieses Jahr schon abgeschlossen habt
 
