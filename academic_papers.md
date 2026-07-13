@@ -45,7 +45,10 @@ _Empfehlung_: In der Grobgliederung maximal Gliederungsebene 2 verwenden.
 
 - Umfang
   - PA1 und PA2: 20-30 Textseiten Plusminus 10%
-  - BA: 40-60 Textseiten Plusminus 10%
+  - T1000: 25-35 Seiten (inklusive Tabellen und Abbildungen) Plusminus 10%
+  - T2000: 2x 25-35 Seiten oder 1x 50-70 Seiten (inklusive Tabellen und Abbildungen) Plusminus 10%
+  - BA WI: 40-60 Textseiten Plusminus 10%
+  - BA INF: 60-80 Seiten (inklusive Tabellen und Abbildungen) Plusminus 10%
 - Aufteilung
   - Einleitung: 5%
   - Theoretischer Teil / Literaturübersicht / Methodik: 50%
