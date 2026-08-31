@@ -1,6 +1,8 @@
 # EIWO 2026
 
-## Dienstag, 01.09.2026, Walldorf
+## Agenda 
+
+### Dienstag, 01.09.2026, Walldorf
 
 | Wann | Was | Wer | Wo / Wie |
 | --- | --- | --- | --- |
@@ -12,7 +14,7 @@
 | 13:15 - 16:50 | Olympiade/Campus-Rallye |  |  |
 | 16:50 - 17:00 | Siegerehrung |  | WDF20 |
 
-## Mittwoch, 02.09.2026, Walldorf
+### Mittwoch, 02.09.2026, Walldorf
 
 | Wann | Was | Wer | Wo / Wie |
 | --- | --- | --- | --- |
@@ -28,7 +30,7 @@
 > [!NOTE]
 > Metropolis:  Impexstr. 1, 69190 Walldorf
 
-## Donnerstag, 03.09.2026, St. Leon-Rot
+### Donnerstag, 03.09.2026, St. Leon-Rot
 
 | Wann | Was | Wer | Wo / Wie |
 | --- | --- | --- | --- |
@@ -45,7 +47,7 @@
 | 15:30 - 17:30 | Messe |  | ROT03 |
 | ab 17:30 | Get Together, Eröffnung Catering |  | ROT03 |
 
-## Freitag, 04.09.2026, St. Leon-Rot
+### Freitag, 04.09.2026, St. Leon-Rot
 
 | Wann | Was | Wer | Wo / Wie |
 | --- | --- | --- | --- |
@@ -53,14 +55,14 @@
 | 10:00 - 10:30 | Vorstellung Abteilungsrallye | Lea und Lukas | Audimax |
 | 10:30 - 11:30 | Jahrgangsfoto Slot 3 | Simon |  |
 | 11:30 - 13:00 | Mittagspause |  |  |
-| 13:00 - 14:30 | Kurswappen & -namen erstellen lassen (kursintern) |  | ROT15 D1.03 |
+| 13:00 - 14:30 | Kurswappen & -namen erstellen lassen (kursintern) | Co-Trainer | ROT15 D1.03 |
 | 14:30 - 15:40 | Menti Quiz |  | Audimax |
 | 15:40 - 16:00 | Abschluss |  | Audimax |
 
 > [!NOTE]
-> Abreise Daniel und Olivia: ca. 12 Uhr
+> Abreise Daniel: ca. 12 Uhr
 
-## Montag, 07.09.2026, St. Leon-Rot
+### Montag, 07.09.2026, St. Leon-Rot
 
 | Wann | Was | Wer | Wo / Wie |
 | --- | --- | --- | --- |
@@ -68,7 +70,7 @@
 | 11:30 - 13:00 | Mittagspause |  |  |
 | 13:00 - 17:00 | ITE2 inkl. Tipps & Tricks für Mac | ITE Trainer | ROT24 A3.10 |
 
-## Dienstag, 08.09.2026, St. Leon-Rot
+### Dienstag, 08.09.2026, St. Leon-Rot
 
 | Wann | Was | Wer | Wo / Wie |
 | --- | --- | --- | --- |
@@ -76,3 +78,16 @@
 | 11:30 - 13:00 | Mittagspause |  |  |
 | 13:00 - 15:00 | ITE2 (Inputsessions) | ITE Trainer | ROT24 A3.10 |
 | ab 15:00 | Volleyball Turnier & weitere Spiele |  | ROT Außenbereich |
+
+## Schulungsplan September
+
+- 01.09 - 04.09, Einführungswoche (EIWO)
+- 07.09 - 08.09, IT Essentials (ITE)
+- 09.09 - 15.09, SAP Fundamentals (SAP Produkte, SAP Strategie, SAP Technologien)
+- 16.09, Abteilungsrallye
+- 17.09, Software Development Tools (Git, AI)
+- 18.09, Software Development Methods (Scrum, HPOM)
+- 21.09 - 25.09, Coding Basics (ABAP)
+- 28.09, Learning Basics (Lernplattformen, AI Learnings)
+- 29.09, Learning Day (AI Learnings, SML Pflichttrainings)
+- 30.09, Urlaub
