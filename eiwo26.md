@@ -91,3 +91,9 @@
 - 28.09, Learning Basics (Lernplattformen, AI Learnings)
 - 29.09, Learning Day (AI Learnings, SML Pflichttrainings)
 - 30.09, Urlaub
+
+## Schulungsplan Oktober (nur INF 2026 RV)
+
+- 05.10 - 09.10, [Optional] SAPUI5-Grundlagen
+- 12.10 - 16.10, [Optional] RAP-Grundlagen
+
