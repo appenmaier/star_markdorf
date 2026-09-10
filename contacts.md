@@ -16,7 +16,7 @@
 | Sustainability: PC 2             | Daniel Blust        | 10                 | Mehmet Arziman (WI 2017), Patrick Brauchle (WI 2014) |
 | Sustainability: PC 3             | Ingo Sigmund        | 11                 | Johannes Wiest (WI 2014), Helen Müller (WI 2017)     |
 | Sustainability: PC 6             | Andrea Giessmann    | 9                  |                                                      |
-| Sustainability: EHS 3            | Julia Riegger       | 14                 | Patrik Balazs (WI 2019)                              |
+| Sustainability: EHS 3            | Julia Riegger [^1]  | 14                 | Patrik Balazs (WI 2019)                              |
 | Sustainability: SID              | Andre Maucher       | 6                  | Jonas Zagst (INF 2022)                               |
 | Sustainability: RDP              | Christoph Huber     | 13                 | Lea Buchhold (WI 2018), Tim Sauter (WI 2021)         |
 | ERP Private: Asset & Service 3   | Thomas Veith        | 11                 |                                                      |
@@ -26,6 +26,8 @@
 | Sustainability: RDP              | -                   | -                  | Marcel Hierling (INF 2013)                           |
 | BTP INT CIE Eventing             | -                   | -                  | Lina Stehle (INF 2013)                               |
 | IPE: Energy Industries Utilities | -                   | -                  | Julian Alber (WI 2020)                               |
+
+[^1]: Da Julia aktuell in Elternzeit ist, hängt das Team aktuell unter Ralitsa Borisova
 
 **Legende**
 
