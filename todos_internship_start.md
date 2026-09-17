@@ -20,6 +20,7 @@
 - Essenskarte am Empfang abholen (nur für Markdorf)
 - Teamevent planen und organisieren (Budget: 20€ pro Person)
 - Prüfen, ob (zusätzlicher) Urlaub genommen werden sollte
+- Büromaterial (Stifte, Blöcke etc.) findet man bei Franziska Mayer im Büro (A3.21)
 
 **Hinweise zum Urlaub**
 - Euer gesetzlicher Urlaub verfällt zum 30. Juni
